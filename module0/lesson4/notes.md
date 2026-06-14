@@ -169,4 +169,4 @@ If something doesn't exist — it tells you.
 ## Takeaway
 
 > The terminal is just a text version of your file explorer.
-> Same folders. Same files. Just typed instead of clicked.
+> Same folders. Same files. Just typed instead of clicked.  
