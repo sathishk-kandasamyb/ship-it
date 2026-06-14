@@ -17,3 +17,4 @@ Every lesson has:
 - A demo you type yourself
 - A challenge to break and fix
 - One takeaway you will never forget
+Built with ❤️ by a learner who shipped it.
